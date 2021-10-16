@@ -1,3 +1,14 @@
 body {
-	background: black;
+	background: silver;
+}
+
+h1{
+	background: pink;
+	color: green;
+	font-style: italic;
+	font-size: 50px;
+}
+
+.red {
+	color: red;
 }
